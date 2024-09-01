@@ -7,13 +7,6 @@ To create a `README.md` file for your GitHub repository that explains the code i
 
 This repository contains code for classifying textures (e.g., skin textures) as smooth or rough using Gray-Level Co-Occurrence Matrix (GLCM) features. The project includes Jupyter notebooks that extract texture features from images, train a machine learning model, and make predictions on new images.
 
-## Project Structure
-
-- **`first.ipynb`**: This notebook contains the initial exploration and feature extraction from images using GLCM. It includes steps for loading images, converting them to grayscale, and extracting GLCM features like dissimilarity and correlation.
-  
-- **`pipeline.ipynb`**: This notebook implements a complete machine learning pipeline. It includes clustering to generate labels, followed by training a RandomForestClassifier to classify textures as smooth or rough. It also covers model evaluation.
-  
-- **`texture_extraction.ipynb`**: This notebook focuses on extracting texture features from images using GLCM and making predictions for new images using the trained model.
 
 ## How It Works
 
