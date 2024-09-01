@@ -106,10 +106,6 @@ print(f"The predicted texture for the new image is: {predicted_texture[0]}")
 
 Feel free to open an issue or submit a pull request if you have suggestions for improving the project.
 
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-```
 
 ### Explanation:
 - **Project Overview**: Brief introduction of what the project does.
